@@ -7,7 +7,7 @@
 Меня зовут Евгений, и я **QA Engineer**.  
 Здесь я делюсь результатами веб- и мобильного тестирования, разработанными на курсах и в личных проектах.
 
-📄 Вы можете ознакомиться с моим [резюме (PDF)](https://drive.google.com/file/d/1v1ep_-S9Oa_A0nPXEeeAFl722LytlBZ4/view?usp=sharing).
+📄 Вы можете ознакомиться с моим [резюме (PDF)](https://drive.google.com/file/d/19Imka8nl60GTUXq4EAtv29SilUJC7dUi/view?usp=sharing).
 ### 🛠️ Ключевые навыки
 ![Static Badge](https://img.shields.io/badge/Тест--дизайн-4CAF50?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Чек--листы-2196F3?style=flat-square)
