@@ -20,15 +20,12 @@
 [![Email](https://img.shields.io/badge/Email-Azovskov.1993%40mail.ru-blue?style=for-the-badge&logo=gmail)](mailto:Azovskov.1993@mail.ru)
 [![Телефон](https://img.shields.io/badge/Телефон-+7(902)182--18--75-success?style=for-the-badge&logo=telegram)](tel:+79021821875)
 [![GitHub](https://img.shields.io/badge/GitHub-EvgeniyAzovskov-181717?style=for-the-badge&logo=github)](https://github.com/EvgeniyAzovskov)
+[![Telegram](https://img.shields.io/badge/Telegram-Евгений-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgeniyAzovskov)
 ---
 
 ### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://t.me/EvgeniyAzovskov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+  
 
 ---
 
