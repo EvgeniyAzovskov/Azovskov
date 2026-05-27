@@ -17,9 +17,11 @@
 где смогу применять свой инженерный склад ума и дисциплину для повышения качества
 продукта
 
-- 📫 Как связаться со мной: [![Email](https://img.shields.io/badge/Написать%20письмо-blue?style=flat-square&logo=gmail)](mailto:Azovskov.1993@mail.ru) 📞 Телефон | [+7 (902) 182-18-75](tel:+79021821875)
+### 📫 Контакты
 
-
+[![Email](https://img.shields.io/badge/Email-Azovskov.1993%40mail.ru-blue?style=for-the-badge&logo=gmail)](mailto:Azovskov.1993@mail.ru)
+[![Телефон](https://img.shields.io/badge/Телефон-+7(902)182--18--75-success?style=for-the-badge&logo=telegram)](tel:+79021821875)
+[![GitHub](https://img.shields.io/badge/GitHub-EvgeniyAzovskov-181717?style=for-the-badge&logo=github)](https://github.com/EvgeniyAzovskov)
 ---
 
 ### 🤝 Социальные сети:
@@ -43,7 +45,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+###   🌐 Веб-тестирование
 
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -51,7 +53,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Мобильное тестирование:
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
@@ -62,14 +64,14 @@
 
 ---
 
-### 💾 Работа с данными:
+### 🗃️ SQL и данные:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### ✏️ Работа с кодом:
+### 💻 Git и работа с кодом:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -81,8 +83,8 @@
 
 | Курс | Платформа | Дата | Статус |
 |------|-----------|:----:|--------|
-| [Инженер по тестированию](https://stepik.org/course/171826/syllabus) | Stepik | 01/2026 - 02/2026 | ✅ Завершён |
-| [Инженер по тестированию](https://stepik.org/course/245575/syllabus) | Stepik | 03/2026 - 04/2026 | ✅ Завершён |
+| [Тестирование ПО с нуля. Теория + Практика. Базовый уровень](https://stepik.org/course/171826/syllabus) | Stepik | 01/2026 - 02/2026 | ✅ Завершён |
+| [Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ](https://stepik.org/course/245575/syllabus) | Stepik | 03/2026 - 04/2026 | ✅ Завершён |
 
 
 
